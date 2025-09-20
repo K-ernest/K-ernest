@@ -46,16 +46,16 @@ Here are some of the tools and technologies I work with regularly:
 
 I'm always open to collaboration, feedback, or just a good tech chat. Feel free to reach out:
 
-- 🐦 [Twitter](https://twitter.com/kernest268)
+- 🐦 [X](https://x.com/kernest268)
 - 📬 Email: victorykanu17@gmail.com
 
 ---
 
 ![K-ernest's Stats](https://github-readme-stats.vercel.app/api?username=k-ernest&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
 <br>
-<!--![Famous-guy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Famous-guy&theme=gruvbox&hide_border=true)-->
+<!--
 ![K-ernest's Streak](https://github-readme-streak-stats.herokuapp.com/?user=k-ernest&theme=gruvbox&hide_border=true)
-<br>
+<br> --->
 ![K-ernest's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k-ernest&theme=gruvbox&show_icons=true&hide_border=true&layout=compact) <br>
 ![trophy](https://github-profile-trophy.vercel.app/?username=k-ernest&theme=onedark)
 ![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,html,vue,nodejs,firebase,css,scss,mongodb,jquery,c++,python,flask,vercel,postman)<br>
