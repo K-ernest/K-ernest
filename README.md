@@ -53,9 +53,9 @@ I'm always open to collaboration, feedback, or just a good tech chat. Feel free 
 
 ![K-ernest's Stats](https://github-readme-stats.vercel.app/api?username=k-ernest&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
 <br>
-<!--
+
 ![K-ernest's Streak](https://github-readme-streak-stats.herokuapp.com/?user=k-ernest&theme=gruvbox&hide_border=true)
-<br> --->
+<br>
 ![K-ernest's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k-ernest&theme=gruvbox&show_icons=true&hide_border=true&layout=compact) <br>
 ![trophy](https://github-profile-trophy.vercel.app/?username=k-ernest&theme=onedark)
 ![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,html,vue,nodejs,firebase,css,scss,mongodb,jquery,c++,python,flask,vercel,postman)<br>
