@@ -3,7 +3,7 @@ K-ernest/K-ernest is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-# 👋 Hi there, I'm Ernest!
+# 👋 Hi there, Im Ernest!
 
 Welcome to my corner of GitHub! I'm a passionate developer, curious thinker, and lifelong learner I'm building sleek web apps, tinkering with backend logic, or exploring new tech stacks, I love turning ideas into reality through code.
 
