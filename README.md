@@ -13,7 +13,7 @@ Welcome to my corner of GitHub! I'm a passionate developer, curious thinker, and
 - ⚙️ Backend engineering using Node.js, Python, or whatever gets the job done
 - 🌐 Frontend magic with Vue, nuxjs, jQuery and a sprinkle of creativity
 - 📊 Data wrangling, automation, and scripting for smarter workflows
-- 🧠 Constantly learning — currently diving deeper into cloud computing and AI.
+- 🧠 Constantly learning — currently diving deeper into cloud computing and AI
 
 ## 🛠️ Tech Toolbox
 
