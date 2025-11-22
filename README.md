@@ -37,7 +37,7 @@ Here are some of the tools and technologies I work with regularly:
 
 ## 🌱 Currently Exploring
 
-- Cloud infrastructure with AWS and Azure
+
 - Building APIs that scale
 - Open-source contributions and community building
 - Game Development with Unreal and C++
